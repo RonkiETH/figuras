@@ -1,0 +1,23 @@
+[33mcommit e8f46bc364f272cf568a05d552e26a5d232948eb[m[33m ([m[1;36mHEAD -> [m[1;32mperimetro[m[33m)[m
+Author: Juan Ignacio Ronquillo <ronquillojuanignacio@gmail.com>
+Date:   Tue Aug 29 21:28:03 2023 -0300
+
+    Se agrega funciónalidad calcular perímetro
+
+[33mcommit ba3ed47361c11017bfbe649819612290ddac97e1[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Juan Ignacio Ronquillo <ronquillojuanignacio@gmail.com>
+Date:   Tue Aug 29 21:17:12 2023 -0300
+
+    Se agrega constructor y atributos
+
+[33mcommit 491d28365a633e710beda5ad06283021d118532e[m
+Author: Juan Ignacio Ronquillo <ronquillojuanignacio@gmail.com>
+Date:   Tue Aug 29 21:07:40 2023 -0300
+
+    Se agrega la clase rectángulo
+
+[33mcommit 5f9b26ff1da2e85dbcabef6991a7be4672df75df[m
+Author: Juan Ignacio Ronquillo <ronquillojuanignacio@gmail.com>
+Date:   Tue Aug 29 20:45:28 2023 -0300
+
+    Versión Inicial del proyecto Figuras
